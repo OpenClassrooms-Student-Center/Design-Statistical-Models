@@ -11,6 +11,7 @@ We start with the core concepts required to build linear regression models
 * Hypothesis testing
 
 ## Part II
+
 We move on to univariate and multivariate linear regression.
 We start with hands-on applications  to standard datasets and follow up with the underlying theoretical basis.
 
@@ -19,6 +20,7 @@ We start with hands-on applications  to standard datasets and follow up with the
 * The mathematical basis for Linear regression
 
 ## Part III
+
 We expand the framework of linear regression for classification, handling categorical variables and polynomial regression.
 
 * Logistic regression
@@ -26,6 +28,7 @@ We expand the framework of linear regression for classification, handling catego
 * Polynomial regression
 
 ## Part IV
+
 In the last part we move from statistical modeling to a predictive analytics approach and address overfitting, cross validation and classification metrics.
 
 * Predicting with linear regression
